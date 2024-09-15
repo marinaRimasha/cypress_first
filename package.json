@@ -1,0 +1,25 @@
+{
+  "name": "cypress_first",
+  "version": "1.0.0",
+  "description": "first lesson cypress MR",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinaRimasha/cypress_1st.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Marina Rim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinaRimasha/cypress_1st/issues"
+  },
+  "homepage": "https://github.com/marinaRimasha/cypress_1st#readme",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  }
+}
